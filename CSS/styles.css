@@ -57,4 +57,5 @@ body{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
-
+.navbar-text {
+  font-size: 1.5rem;
