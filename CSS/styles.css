@@ -9,7 +9,6 @@ body{
 .row-header {
   margin: 0px auto;
   padding 0px auto;
-  display:block;
 }
 .row-content {
   margin: 0 auto;
@@ -29,7 +28,6 @@ body{
 }
 
 .jumbotron {
-  padding: 70px 30px;
   margin: 0px auto;
   background: purple;
   color: floralwhite;
@@ -40,3 +38,23 @@ body{
   margin: 0px;
   color: black;
 }
+
+.card-header  {
+  background-color: #ffb300 !important;
+  font-weight: 800;
+}
+.radio_btns {
+  padding: 0 15px;
+}//adding padding to align with the "Reserve" button
+
+
+.btn-sm {
+  padding: 8px 12px;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
